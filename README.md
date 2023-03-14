@@ -20,6 +20,8 @@ Two files are generated as results:
     1. Output Video with detections
     2. Frames with detections ( which will be utilized for further application )
 
+![66](https://user-images.githubusercontent.com/85514219/224968890-b3ad8cee-9b8e-44d0-a4b6-cbb4f7567b8b.png)
+
 ## Thank you :))
 
 

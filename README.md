@@ -1,6 +1,6 @@
 # Object_Tracking_YOLOv8
 
-The following repo has been made compatible to run with not only higher TensorFlow version but also with higher version of Sklearn and Python which was not supported earlier. All these changes can be found in the repo: https://github.com/Dipankar1997161/deep_sort.git
+The following repo has been made DeepSORT algorithm compatible to run with not only higher TensorFlow version but also with higher version of Sklearn and Python which was not supported earlier. All these changes can be found in the repo: https://github.com/Dipankar1997161/deep_sort.git
 
 ## Dependencies
     Python >=3.8
